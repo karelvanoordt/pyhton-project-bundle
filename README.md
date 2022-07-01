@@ -32,7 +32,7 @@ Open your terminal and the project directory
 
 ### Usage
 
-## Manyclipboard
+## 1. Manyclipboard
 
 Commands:
 
