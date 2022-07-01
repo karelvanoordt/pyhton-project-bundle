@@ -36,9 +36,9 @@ Open your terminal and the project directory
 
 Commands:
 
-Save - Saves the copied line in your clipboard using a key
-Load - Load the required line in manyclipboard using a key
-List - Lists all the lines saved
+-- Save - Saves the copied line in your clipboard using a key
+-- Load - Load the required line in manyclipboard using a key
+-- List - Lists all the lines saved
 
 Run the application in your terminal `python manyclipboard.py {COMMAND}` or `python3 manyclipboad.py {COMMAND}`
 
