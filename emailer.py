@@ -9,7 +9,7 @@ body = "This is a test email from Python!"
 sender_email = "kareltestcode@gmail.com"
 reciever_email = "vanoordtkarel@gmail.com"
 
-password = input("Enter a password: ")
+password = "aaghntxwbpgjlpnk"
 
 message = EmailMessage()
 
