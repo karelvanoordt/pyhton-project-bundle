@@ -42,6 +42,21 @@ Commands:
 
 Run the application in your terminal `python manyclipboard.py {COMMAND}` or `python3 manyclipboad.py {COMMAND}`
 
+## 2. WeatherPY
+
+This is an executable file that returns the weather conditions of an specific city in the world. Built with OPENWEATHERMAP API (with 200k+ cities available). 
+
+To use:
+
+-- Execute file: using `python weatherpy.py` or `python3 weatherpy.py`
+-- Type the name of the city
+-- You'll see right away the weather conditions.
+
+## 3. Emailer
+
+This is an executable file where you can set an email template and create a sender automation.
+
+-- To use it, change the values of the sender, receiver, and message variables and run the file.
 
 
 ## Author
